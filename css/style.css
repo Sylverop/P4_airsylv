@@ -639,7 +639,7 @@ h4 {
 }
 .bgc-dark-slate-blue {
     background-color: #364577;
-}
+}/*------------ Modifications apportées ----------*/
 .bgc-atomic-tangerine {
     background-color: #9d451d;
 }
@@ -685,7 +685,7 @@ footer.bgc-atomic-tangerine {
 .bg-presentation {
     background-image: url("../img/image-de-presentation.webp");
 }
-/************************* Modifs apportées ***************************/
+
 .container img{
     max-width: 100%;
     margin: auto;
@@ -741,7 +741,7 @@ blockquote p{
         height: 300px;
     }
 }
-/***************************** Fin modifs *****************************/
+/*---------Fin des modifications--------------*/
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
